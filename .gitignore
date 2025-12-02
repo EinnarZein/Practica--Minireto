@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos compilados de Python (basura)
+__pycache__/
+*.pyc
+
+# Archivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code (opcional, recomendado)
+.vscode/
